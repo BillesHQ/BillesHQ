@@ -1,7 +1,6 @@
 ## Hi there, I'm Raquel 👋
 
-<!--
-**BillesHQ/BillesHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](programming.gif)
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Music
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play instruments!
--->
+
